@@ -1,3 +1,2 @@
 # hello-world
-test git hub lan dau
-Tao ra 1 branch
+Down ve test thu git tortoise
